@@ -1,1 +1,41 @@
+/*
+ *authors: Roelof Plas & Stefan Bakker
+ *copyrighted: ******* 2016
+ */
 
+
+
+body{
+    margin:0px;
+}
+
+.container {
+    margin:0px;
+    width:100vw;
+    height:100vh;
+    background-color:#000000;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*
+.footer {
+    width:100vw;
+    height:10vh;
+    background-color:#fff;
+}
+
+*/
